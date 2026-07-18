@@ -1,22 +1,28 @@
 # NoxyTree
 
-Practical local tools for automation, community utilities, and creator workflows.
+Small, local tools for dependable automation and creator workflows.
 
-## Featured: Cadence Starter
+## Cadence Starter
 
-**Know the next safe action in your media pipeline.**
+**Your script changed. Your pipeline should notice.**
 
-Cadence Starter is a tested local workflow engine for documentary, explainer, and faceless-media production. It tracks missing, blocked, stale and approved work around the creative tools you already use.
+Cadence Starter is a tested local Python workflow skeleton for solo media pipelines. It fingerprints approvals, catches stale files, blocks dependent work, and names the next safe action. It does not require Claude, an AI account, or a subscription.
 
 ![Cadence Starter approval-staleness walkthrough](https://raw.githubusercontent.com/NoxyTree/cadence-starter/main/assets/cadence-demo.gif)
 
-- [Interactive public demo](https://noxytree.github.io/cadence-starter/)
-- [Product source preview](https://github.com/NoxyTree/cadence-starter)
-- [Get Cadence Starter — $49](https://ko-fi.com/s/a8645f925f?utm_source=github_profile&utm_medium=profile&utm_campaign=cadence_launch)
+- [See the real product behaviour](https://noxytree.github.io/cadence-starter/)
+- [Read the free media-pipeline field notes](https://noxytree.github.io/cadence-starter/guides/)
+- [Inspect the public preview repository](https://github.com/NoxyTree/cadence-starter)
+- [Get Cadence Starter - $49](https://ko-fi.com/s/a8645f925f?utm_source=github_profile&utm_medium=profile&utm_campaign=cadence_site_rebuild)
 
-The paid product includes complete Python source, editable workflow registries, approval fingerprints, a dry-run-first command runner, schemas, production templates, a fictional worked project, a practical handbook, and 18 automated tests.
+The customer ZIP includes complete Python source, editable workflow registries, content-bound approval gates, a dry-run-first command runner, schemas, templates, a fictional worked project, practical documentation, and 18 automated tests.
 
-## Support the work
+## Free field notes
 
-If one of these tools saves you time, you can [support NoxyTree on Ko-fi](https://ko-fi.com/noxytree).
+- [Approval gates for AI-assisted media pipelines](https://noxytree.github.io/cadence-starter/guides/approval-gates-ai-media-pipelines/)
+- [A practical faceless-video workflow](https://noxytree.github.io/cadence-starter/guides/faceless-video-workflow/)
+- [How to detect stale files in media production](https://noxytree.github.io/cadence-starter/guides/stale-files-media-production/)
 
+## Support
+
+If a NoxyTree tool saves you time, you can [support the work on Ko-fi](https://ko-fi.com/noxytree).
