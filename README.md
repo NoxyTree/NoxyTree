@@ -13,7 +13,8 @@ Cadence Starter is a tested local Python workflow skeleton for solo media pipeli
 - [See the real product behaviour](https://noxytree.github.io/cadence-starter/)
 - [Read the free media-pipeline field notes](https://noxytree.github.io/cadence-starter/guides/)
 - [Inspect the public preview repository](https://github.com/NoxyTree/cadence-starter)
-- [Get Cadence Starter - $49](https://ko-fi.com/s/a8645f925f?utm_source=github_profile&utm_medium=profile&utm_campaign=cadence_site_rebuild)
+- [Try the free approval-fingerprint sample](https://noxytree.github.io/cadence-starter/downloads/cadence-approval-sample.zip?utm_source=github_profile&utm_medium=profile&utm_campaign=free_sample)
+- [Get Cadence Starter - founding price $29](https://ko-fi.com/s/a8645f925f?utm_source=github_profile&utm_medium=profile&utm_campaign=founding_offer)
 
 The customer ZIP includes complete Python source, editable workflow registries, content-bound approval gates, a dry-run-first command runner, schemas, templates, a fictional worked project, practical documentation, and 18 automated tests.
 
